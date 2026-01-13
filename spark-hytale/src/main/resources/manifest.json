@@ -1,0 +1,14 @@
+{
+  "Group": "spark",
+  "Name": "spark",
+  "Version": "${pluginVersion}",
+  "Description": "${pluginDescription}",
+  "Authors": [{"Name": "Luck"}],
+  "Website": "https://spark.lucko.me/",
+  "ServerVersion": "*",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "DisabledByDefault": false,
+  "Main": "me.lucko.spark.hytale.HytaleSparkPlugin",
+  "IncludesAssetPack": false
+}

@@ -34,4 +34,5 @@ include (
         'spark-sponge',
         'spark-standalone-agent',
         'spark-velocity',
+        'spark-hytale',
 )
